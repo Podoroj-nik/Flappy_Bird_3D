@@ -1,0 +1,21 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="8">
+            <item index="0" class="java.lang.String" itemvalue="2130020214302130242043234355301033322135532320234053442234343345455433335100142514223432035250211452" />
+            <item index="1" class="java.lang.String" itemvalue="4512100533353032012431445340333044013334510305053011520434413550020103234351054004400144015033044522" />
+            <item index="2" class="java.lang.String" itemvalue="0212113203354304505222514352543205540144511535051034310111344201443141052513415555210220455053354431" />
+            <item index="3" class="java.lang.String" itemvalue="3213520002153424221051423142250011203343150231503311053111300510424535444024541421423313500434415214" />
+            <item index="4" class="java.lang.String" itemvalue="3323350351545210021205524545042253033505341154533420220543134050311555340052400151441042533410142133" />
+            <item index="5" class="java.lang.String" itemvalue="0104411220044452540534321034251130443142222124500515345432551505431111355454044323050120451032520320" />
+            <item index="6" class="java.lang.String" itemvalue="0454334514100243325204210215125443304320113450054455323200552002310513315315040003500350300145125542" />
+            <item index="7" class="java.lang.String" itemvalue="5112551134131321151324155444235353143552332233223313351234433252154241423325513155115151553143223554" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
