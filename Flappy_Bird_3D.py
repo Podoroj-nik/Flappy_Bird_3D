@@ -466,7 +466,6 @@ if __name__ == '__main__':
     pygame.mixer.music.stop()
     generation_level_step1()
     generation_level_step2()
-    watermelons.append(1750 + 600 * 3)
     watermelon()
 
     #  Заставка игры
