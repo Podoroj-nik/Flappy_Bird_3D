@@ -137,7 +137,7 @@ def watermelon():
 
 # загрузка и редактирование изображений
 image_background = load_image("F_sky.png")
-image_background = pygame.transform.scale(image_background, (1920, 1080))
+image_background = pygame.transform.scale(image_background, (width, height))
 
 image_bird1 = load_image("Bird/F-Bird_1.png")
 image_bird1 = pygame.transform.scale(image_bird1, (200, 200))
@@ -494,7 +494,7 @@ if __name__ == '__main__':
 
             #  проверка на изменение громкости музыки
             if event.type == pygame.MOUSEBUTTONDOWN:
-                if event.pos[0] > 1750 and event.pos[1] > 910:
+                if event.pos[0] > 1750 and event.pos[0] < 1900 and event.pos[1] > 910 and event.pos[1] < 1060:
                     vol = sound_update(vol)
 
         # обработка нажатий
